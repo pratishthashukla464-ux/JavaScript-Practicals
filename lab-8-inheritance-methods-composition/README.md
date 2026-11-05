@@ -13,7 +13,7 @@ Extend Person with Teacher and use an inherited method.
 
 - Evidence: `task1-output.png
 - Result: Executed with Node.js:captured terminal output is shown in the screenshot.
- Task 2 — `task2.js`
+ Task 2 — `task2.js
 
 Check two PIN values using a class method.
 
