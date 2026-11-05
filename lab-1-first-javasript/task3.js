@@ -1,4 +1,4 @@
-// Name: Mayank Gupta | Roll No.: 2510303296 | Assignment: 2, Task 3
+// Name: Pratishtha Shukla | Roll No.: 2650303024| Assignment: 2, Task 3
 
 let a = 8;
 let b = 4;
