@@ -1,6 +1,5 @@
-
- // Name: Mayank Gupta
- // Roll No.: 2510303296
+ // Name: Pratishtha Shukla
+ // Roll No.: 2650303024
  // Assignment: 15, Task 4
 
 function getUsers() {
